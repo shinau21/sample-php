@@ -23,7 +23,7 @@
         }
         ?>
  
-        <h2>PHP Form Example: GFG Review</h2>
+        <h2>Sample PHP shell exec (@shinau21)</h2>
         <form method="post" action=
             "<?php echo htmlspecialchars($_SERVER[" PHP_SELF "]);?>">
             Name:
